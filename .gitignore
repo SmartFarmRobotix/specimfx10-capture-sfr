@@ -1,0 +1,12 @@
+*.bil
+build/
+data/
+dist/
+*.egg-info/
+*.pyc
+__pycache__/
+.pytest_cache/
+*.raw
+.venv/
+venv/
+*.wls

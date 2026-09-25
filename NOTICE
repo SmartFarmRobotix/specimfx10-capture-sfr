@@ -1,0 +1,13 @@
+specimfx10-capture
+Copyright 2026 Smart Farm Robotix VCC
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This software uses, at run time and without modification, the Aravis library
+(https://github.com/AravisProject/aravis, LGPL-2.1-or-later) through its GObject
+introspection bindings (PyGObject). Aravis is not distributed with this software;
+build or install it separately as described in README.md.
+
+"Specim" and "FX10" are trademarks of their owner. The per-unit calibration data
+delivered with a camera (wavelength files, radiometric calibration, calibration
+packs) is the property of the camera vendor and is not part of this software.
